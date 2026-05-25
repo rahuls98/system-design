@@ -1,0 +1,1 @@
+import{g as e,m as t}from"../chunks/BM_nDlx_.js";import"../chunks/xihTtKlq.js";var n=e(`<h1>Welcome!</h1>`);function r(e){t(e,n())}export{r as component};
